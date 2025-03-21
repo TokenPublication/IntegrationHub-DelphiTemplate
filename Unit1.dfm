@@ -1,3 +1,12 @@
+(*
+  Form1.dfm - Main Form Definition File
+  
+  Description:
+    This file defines the user interface for the Integration Hub Demo application.
+    It contains the layout and properties of all visual components, including buttons
+    for sending baskets, payments, retrieving fiscal information, and a memo control
+    for displaying logs.
+*)
 object Form1: TForm1
   Left = 0
   Top = 0
