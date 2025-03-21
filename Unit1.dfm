@@ -1,11 +1,29 @@
 (*
-  Form1.dfm - Main Form Definition File
+  Unit1.dfm - Main Form Definition File for TokenX Connect (Wired) / Integration Hub
+  
+  Platform/Language: 
+    Delphi - Object Pascal based Visual Component Library (VCL) application
   
   Description:
-    This file defines the user interface for the Integration Hub Demo application.
-    It contains the layout and properties of all visual components, including buttons
-    for sending baskets, payments, retrieving fiscal information, and a memo control
-    for displaying logs.
+    This file defines the user interface for the Integration Hub Demo application
+    that facilitates communication between a Point of Sale (POS) system and payment
+    terminals through the TokenX Connect (Wired) integration, also known as
+    Integration Hub.
+    
+  Functionality:
+    - Sends basket/cart data to payment terminals
+    - Processes payment transactions
+    - Retrieves fiscal information from connected devices
+    - Provides logging capabilities for debugging and transaction tracking
+    
+  Components:
+    - Action buttons for different integration operations
+    - Logging memo for displaying transaction results and diagnostics
+    
+  Integration Details:
+    The TokenX Connect (Wired) integration provides a middleware solution that 
+    enables point-of-sale applications to communicate with various payment 
+    terminals and fiscal devices without dealing with proprietary protocols.
 *)
 object Form1: TForm1
   Left = 0

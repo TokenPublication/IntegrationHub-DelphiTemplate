@@ -1,18 +1,43 @@
 {*******************************************************************************
-* Description:
-*   This unit implements a wrapper for the IntegrationHubCpp.dll library.
+* TokenX Connect (Wired) / Integration Hub - Delphi Interface
 *
-* Language: Object Pascal (Delphi)
+* Description:
+*   This unit implements a comprehensive Delphi wrapper for the TokenX Connect
+*   (also known as Integration Hub) library. It facilitates the integration of
+*   point-of-sale (POS) devices with Delphi applications using the native C++
+*   DLL provided by the TokenX platform.
+*
+* Platform/Language:
+*   - Platform: Microsoft Windows
+*   - Language: Object Pascal (Delphi)
+*   - Implementation: VCL (Visual Component Library) application
 * 
-* Features:
-*   - Dynamic loading of required DLLs
-*   - Asynchronous connection to POS devices
-*   - Callback-based device state monitoring
-*   - JSON-based transaction processing
-*   - Fiscal information retrieval
+* Main Features:
+*   - Dynamic loading of required DLLs at runtime
+*   - Asynchronous connection to POS terminals
+*   - Event-driven architecture with callback-based device state monitoring
+*   - JSON-based transaction and payment processing
+*   - Fiscal information retrieval from POS devices
+*   - Automatic reconnection on connection loss
+*   - Thread-safe communication with the UI
+*
+* Technical Implementation:
+*   - Singleton pattern for POS communication manager
+*   - DLL function pointer resolution via GetProcAddress
+*   - Asynchronous operations using System.Threading
+*   - Callback routing from C++ to Delphi event model
+*   - Comprehensive error handling and logging
 *
 * Dependencies:
-*   - IntegrationHubCpp.dll and supporting libraries
+*   - IntegrationHubCpp.dll - Main integration library
+*   - libcrypto-3.dll - Cryptography support library
+*   - libusb-1.0.dll - USB communication library
+*   - zlib1.dll - Compression library
+*
+* Usage:
+*   This wrapper simplifies the complex process of POS integration by providing
+*   a clean Object Pascal interface to the native C++ DLL. It handles memory
+*   management, thread synchronization, and error handling automatically.
 *******************************************************************************}
 
 unit Unit1;
