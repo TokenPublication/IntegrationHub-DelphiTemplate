@@ -734,7 +734,25 @@ end;
  *}
 procedure TForm1.FormDestroy(Sender: TObject);
 begin
-  FPOSComm.Free;
+    try
+    // First disable callbacks to prevent further messages from being queued
+    if Assigned(FPOSComm) then
+    begin
+      Log('Disconnecting from device...');
+      // Set callbacks to nil to prevent further events from being processed
+      FPOSComm.SetCallbacks(nil, nil);
+      // Explicitly disconnect before freeing
+      FPOSComm.Disconnect;
+      Log('Releasing communication resources...');
+      FPOSComm.Free;
+      FPOSComm := nil;
+    end;
+  except
+    on E: Exception do
+    begin
+      Log('Error during cleanup: ' + E.Message);
+    end;
+  end;
 end;
 
 {*
