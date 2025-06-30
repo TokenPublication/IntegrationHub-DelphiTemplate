@@ -1,0 +1,945 @@
+----- Log started at 2025-06-30 10:13:56 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:13:56] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:13:56] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:13:56] [I] ConnectionAndroid: Connected Device Count : 4
+[2025-06-30 10:13:56] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:13:56] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:13:56] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:13:56] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:13:57] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:13:57] [I] ConnectionAndroid: VID: 32903 PID: 38
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:13:57] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:13:57] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:13:57] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:13:57] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:13:57] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:13:57] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:13:57] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:13:57] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:13:57] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:13:57] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:13:57] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:13:59] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:13:59] [I] ConnectionWrapper: active_device : -1
+[2025-06-30 10:13:59] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:15:06 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:15:06] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Connected Device Count : 4
+[2025-06-30 10:15:06] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:15:06] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:15:06] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:15:06] [I] ConnectionAndroid: VID: 32903 PID: 38
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:15:06] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:15:06] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:15:06] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:15:06] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:15:06] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:15:06] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:15:06] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:15:06] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:15:13] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:15:13] [I] ConnectionWrapper: active_device : -1
+[2025-06-30 10:15:13] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:15:51 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:15:51] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:15:51] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:15:51] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:15:51] [I] ConnectionAndroid: VID: 6353 PID: 20193
+[2025-06-30 10:15:51] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:15:51] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:15:51] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:15:52] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:15:52] [I] ConnectionAndroid: Attempted To Put Device Into Accessory Mode
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:15:53] [I] ConnectionAndroid: IN
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:15:53] [I] ConnectionAndroid: OUT
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:15:53] [I] Connection: Sending Hello
+[2025-06-30 10:15:53] [I] Connection: Verification key: asdfg
+[2025-06-30 10:15:53] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:15:53] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:15:53] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:15:53] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:15:53] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:15:53] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:15:53] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:15:53] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:15:53] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:16:08] [I] ConnectionAndroid: Trying again 0
+[2025-06-30 10:16:10] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1248 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"4ac80102f45e729929feaf5e950702c709c4a10c03cc71f9c99ac94cf0c409c3d14fb5362b6e42aad976568ef7a3c6529f633542ab1586850d7ec2357d2da5c62b2ce95336db15ccc8817b676b8cfdb2b15834ebd512b9be1031cadbd0ee840e"} - Control of chunk: 59903
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 5
+[2025-06-30 10:16:10] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:16:10] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:16:10] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:10] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:16:10] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:16:10] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:16:10] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:16:10] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:16:10] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:16:10] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:16:10] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:10] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:16:10] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:16:10] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:16:10] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:16:10] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:16:10] [I] HelperFunctions: Signature length: 103
+[2025-06-30 10:16:10] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:16:10] [I] Connection: Sharing key
+[2025-06-30 10:16:10] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:10] [E] AES: 20170000:error:1C800064:Provider routines:ossl_cipher_unpadblock:bad decrypt:providers\implementations\ciphers\ciphercommon_block.c:107:
+
+[2025-06-30 10:16:10] [I] Connection: Sending Error: Not ending or starting with a valid TLV tag. Invalid or corrupted data.
+[2025-06-30 10:16:10] [I] Connection: Request Type: 60 Enqueued 136 bytes to write.
+[2025-06-30 10:16:10] [I] ConnectionAndroid: Not ending or starting with a valid TLV tag. Invalid or corrupted data.
+[2025-06-30 10:16:10] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 54075
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 6
+[2025-06-30 10:16:10] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:16:10] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:16:10] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:16:10] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:16:10] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:10] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 30581
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:10] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:16:10] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:10] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:10] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 3917
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:10] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:14] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:16:14] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:16:14] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 9861
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:14] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:14] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:16:14] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:16:14] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 46208
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:16] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:16:16] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:16:16] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:16:16] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:16:16] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 1741
+[2025-06-30 10:16:16] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:16] [I] Connection: Received Data Type: 7
+[2025-06-30 10:16:16] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:16:16] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:16:16] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:17] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:16:17] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:16:17] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:16:17] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:16:17] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:16:17] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:16:17] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:16:17] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:16:17] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:16:17] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:16:17] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:16:17] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:17] [I] Connection: Store device state 0 : 
+[2025-06-30 10:16:17] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:16:28 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:16:28] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:16:28] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:16:28] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:16:28] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:16:28] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:16:28] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:16:28] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:16:28] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:16:28] [I] ConnectionAndroid: VID: 6353 PID: 11520
+[2025-06-30 10:16:28] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:16:28] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:16:29] [I] ConnectionAndroid: IN
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:16:29] [I] ConnectionAndroid: OUT
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:16:29] [I] Connection: Sending Hello
+[2025-06-30 10:16:29] [I] Connection: Verification key: asdfg
+[2025-06-30 10:16:29] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:16:29] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:16:29] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:16:29] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:16:29] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:16:29] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:16:29] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:16:29] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:16:29] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:16:29] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1264 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"26dfd931b248d3c7d8cc5d348578c709a21075e6864b1564094e77fcbf83831152c04673cc7b034927e5d019bd3d227e5c6b5e73440d779fe67538932f2704b01776a23a8ad4d4af5a0f181d43c2eebe7f85a630f7d3769ac57d8fb50f4ac9b4"} - Control of chunk: 41344
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 5
+[2025-06-30 10:16:29] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:16:29] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:16:29] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:29] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:16:29] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:16:29] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:16:29] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:16:29] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:16:29] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:16:29] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:16:29] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:29] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:16:29] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:16:29] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:16:29] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:16:29] [I] TLVProtocol: Type of chunk: 4 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 50012
+[2025-06-30 10:16:29] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:16:29] [I] HelperFunctions: Signature length: 102
+[2025-06-30 10:16:29] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:16:29] [I] Connection: Sharing key
+[2025-06-30 10:16:29] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 4
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:29] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 33316
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 6
+[2025-06-30 10:16:29] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:16:29] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:16:29] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:16:29] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:16:29] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:29] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 32308
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:29] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:16:29] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:29] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:29] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 24146
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:31] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:16:31] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:16:31] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 44870
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:31] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:31] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:16:31] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:16:31] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 58783
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:31] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:34] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:16:34] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:16:34] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:16:34] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:16:34] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 22482
+[2025-06-30 10:16:34] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:34] [I] Connection: Received Data Type: 7
+[2025-06-30 10:16:34] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:16:34] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:34] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:16:35] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:16:35] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:16:35] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:16:35] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:16:35] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:16:35] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:16:35] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:16:35] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:16:35] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:16:35] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:16:35] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:16:35] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:35] [I] Connection: Store device state 0 : 
+[2025-06-30 10:16:35] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:16:45 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:16:45] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:16:45] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:16:45] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:16:45] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:16:45] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:16:45] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:16:45] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:16:45] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:16:45] [I] ConnectionAndroid: VID: 6353 PID: 11520
+[2025-06-30 10:16:45] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:16:45] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:16:46] [I] ConnectionAndroid: IN
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:16:46] [I] ConnectionAndroid: OUT
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:16:46] [I] Connection: Sending Hello
+[2025-06-30 10:16:46] [I] Connection: Verification key: asdfg
+[2025-06-30 10:16:46] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:16:46] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:16:46] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:16:46] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:16:46] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:16:46] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:16:46] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:16:46] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:16:46] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:16:46] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1264 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"1d46d717b3d294dcead7ad8c9b0fad1552c46c434c9fcfcd3953cd9e3b7d366875ac78f83966ea3de8e147b40f6e19224c8c86dd5e2654ebca148ffa65aedb1c4a6da7a36e17cfb18fe6bff3b49e90aa7d820f429e1f88831dbfa28adda6d9b5"} - Control of chunk: 12421
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 5
+[2025-06-30 10:16:46] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:16:46] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:16:46] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:46] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:16:46] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:16:46] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:16:46] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:16:46] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:16:46] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:16:46] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:16:46] [I] HelperFunctions: -------------------
+[2025-06-30 10:16:46] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:16:46] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:16:46] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:16:46] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:16:46] [I] TLVProtocol: Type of chunk: 4 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 50012
+[2025-06-30 10:16:46] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:16:46] [I] HelperFunctions: Signature length: 102
+[2025-06-30 10:16:46] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:16:46] [I] Connection: Sharing key
+[2025-06-30 10:16:46] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 4
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:46] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 30244
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 6
+[2025-06-30 10:16:46] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:16:46] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:16:46] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:16:46] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:16:46] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:46] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 32430
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:46] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:16:46] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:46] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:46] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 43602
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 0
+[2025-06-30 10:16:46] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:48] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:16:48] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:16:48] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 8556
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:48] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:48] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:16:48] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:16:48] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 4511
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 2
+[2025-06-30 10:16:48] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:50] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:16:50] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:16:50] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:16:50] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:16:50] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 41938
+[2025-06-30 10:16:50] [I] Connection: Received Data Type: 49
+[2025-06-30 10:16:50] [I] Connection: Received Data Type: 7
+[2025-06-30 10:16:50] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:16:50] [I] Connection: Received Data Type: 50
+[2025-06-30 10:16:50] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:16:51] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:16:51] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:16:51] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:16:51] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:16:52] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:16:52] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:16:52] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:16:52] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:16:52] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:16:52] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:16:52] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:16:52] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:16:52] [I] Connection: Store device state 0 : 
+[2025-06-30 10:16:52] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:35:12 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:35:12] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:35:12] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:35:12] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:35:12] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:35:12] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:35:12] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:35:12] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:35:13] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:35:13] [I] ConnectionAndroid: VID: 6353 PID: 11520
+[2025-06-30 10:35:13] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:35:13] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:35:14] [I] ConnectionAndroid: IN
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:35:14] [I] ConnectionAndroid: OUT
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:35:14] [I] Connection: Sending Hello
+[2025-06-30 10:35:14] [I] Connection: Verification key: asdfg
+[2025-06-30 10:35:14] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:35:14] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:35:14] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:35:14] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:35:14] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:35:14] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:35:14] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:35:14] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:35:14] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:35:14] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1248 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"6fc18bbf5466b4fc45460618e6077d226f3f3d0ccddb5eb137f7097e2e56e8f5417514ba264dfe449431aafecc9beddd0289c2892984424469d72d8b69bb4ff4d1bde221d45b0637013b52dcf5df53c96c05c4f70b6bb11c4a7522c4d4799af8"} - Control of chunk: 25030
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 5
+[2025-06-30 10:35:14] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:35:14] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:35:14] [I] HelperFunctions: -------------------
+[2025-06-30 10:35:14] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:35:14] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:35:14] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:35:14] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:35:14] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:35:14] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:35:14] [I] TLVProtocol: Type of chunk: 4 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 50012
+[2025-06-30 10:35:14] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:35:14] [I] HelperFunctions: -------------------
+[2025-06-30 10:35:14] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:35:14] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:35:14] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:35:14] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:35:14] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:35:14] [I] HelperFunctions: Signature length: 102
+[2025-06-30 10:35:14] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:35:14] [I] Connection: Sharing key
+[2025-06-30 10:35:14] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 4
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:14] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 52504
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 6
+[2025-06-30 10:35:14] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:35:14] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:35:14] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:35:14] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:35:14] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:14] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 9846
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 0
+[2025-06-30 10:35:14] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:35:14] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:35:14] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:14] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 4462
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 0
+[2025-06-30 10:35:14] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:16] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:35:16] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:35:16] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 4656
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 2
+[2025-06-30 10:35:16] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:16] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:35:16] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:35:16] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 43683
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 2
+[2025-06-30 10:35:16] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:18] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:35:18] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:35:18] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:35:18] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:35:18] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 6382
+[2025-06-30 10:35:18] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:18] [I] Connection: Received Data Type: 7
+[2025-06-30 10:35:18] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:35:18] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:18] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:35:19] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:35:19] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:35:19] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:35:19] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:35:19] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:35:19] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:35:19] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:35:19] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:35:19] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:35:19] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:35:19] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:35:19] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:35:19] [I] Connection: Store device state 0 : 
+[2025-06-30 10:35:19] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:35:25 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:35:25] [I] ConnectionWrapper: createCommunication called
+[2025-06-30 10:35:25] [I] ConnectionWrapper: Company Name: YourCompanyName
+[2025-06-30 10:35:25] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:35:25] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:35:25] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:35:25] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:35:25] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:35:25] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:35:25] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:35:25] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:35:25] [I] ConnectionAndroid: VID: 6353 PID: 11520
+[2025-06-30 10:35:25] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:35:25] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:35:26] [I] ConnectionAndroid: IN
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:35:26] [I] ConnectionAndroid: OUT
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:35:26] [I] Connection: Sending Hello
+[2025-06-30 10:35:26] [I] Connection: Verification key: asdfg
+[2025-06-30 10:35:26] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:35:26] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:35:26] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:35:26] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:35:27] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:35:27] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:35:27] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:35:27] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:35:27] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:35:27] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:35:27] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:35:27] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:35:27] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:35:27] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1264 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"e852aa5f0a792a127241e76edd1db18721b130d5a1f310dc3af563b463cd1fb31a3367351eee0073ff5386a185de88dc716626e58580ba278115718b7bb372ead9a4a3f354ad55d3cb31110ccd9f1a0ea57fa0db3663d14a9ced9fd84f0ed6d4"} - Control of chunk: 6048
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 5
+[2025-06-30 10:35:27] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:35:27] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 4 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 50012
+[2025-06-30 10:35:27] [I] HelperFunctions: -------------------
+[2025-06-30 10:35:27] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:35:27] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:35:27] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:35:27] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:35:27] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:35:27] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:35:27] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:35:27] [I] HelperFunctions: -------------------
+[2025-06-30 10:35:27] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:35:27] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:35:27] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:35:27] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:35:27] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:35:27] [I] HelperFunctions: Signature length: 103
+[2025-06-30 10:35:27] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:35:27] [I] Connection: Sharing key
+[2025-06-30 10:35:27] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 4
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 32523
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 6
+[2025-06-30 10:35:27] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:35:27] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:35:27] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:35:27] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:35:27] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 39521
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 0
+[2025-06-30 10:35:27] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:35:27] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:35:27] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 41853
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 0
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:35:27] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 49636
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 2
+[2025-06-30 10:35:27] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:27] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:35:27] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:35:27] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 6320
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 2
+[2025-06-30 10:35:27] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:29] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:35:29] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:35:29] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:35:29] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:35:29] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 43773
+[2025-06-30 10:35:29] [I] Connection: Received Data Type: 49
+[2025-06-30 10:35:29] [I] Connection: Received Data Type: 7
+[2025-06-30 10:35:29] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:35:29] [I] Connection: Received Data Type: 50
+[2025-06-30 10:35:29] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:35:29] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:35:29] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:35:29] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:35:29] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:35:30] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:35:30] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:35:30] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:35:30] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:35:30] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:35:30] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:35:30] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:35:30] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:35:30] [I] Connection: Store device state 0 : 
+[2025-06-30 10:35:30] [W] ConnectionWrapper: Finished deleteCommunication
+----- Log started at 2025-06-30 10:36:35 ------
+Token Integration Hub Version: 2.5.0.1
+-------------------------------------------------
+[2025-06-30 10:36:35] [I] ConnectionWrapper: Connection Started
+[2025-06-30 10:36:35] [I] ConnectionWrapper: DLL Version: 2.5.0.1
+[2025-06-30 10:36:35] [I] ConnectionAndroid: Connected Device Count : 5
+[2025-06-30 10:36:35] [I] ConnectionAndroid: VID: 32902 PID: 39443
+[2025-06-30 10:36:35] [I] ConnectionAndroid: VID: 32902 PID: 41197
+[2025-06-30 10:36:35] [I] ConnectionAndroid: VID: 3034 PID: 21833
+[2025-06-30 10:36:35] [I] ConnectionAndroid: Handle Part Called
+[2025-06-30 10:36:35] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:36:35] [I] ConnectionAndroid: VID: 6353 PID: 11520
+[2025-06-30 10:36:35] [I] ConnectionAndroid: Sent getProtocol
+[2025-06-30 10:36:35] [I] ConnectionAndroid: Version Code Device: 2
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Accessory Identification Sent
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Android Found:
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Interface 0. altSetting 0. Num of endpoints: 2
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:36:36] [I] ConnectionAndroid: IN
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Address 129
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Endpoint type 
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Bulk
+[2025-06-30 10:36:36] [I] ConnectionAndroid: OUT
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Address 1
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Interface Claimed, Ready To Transfer Data
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 41197
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Added With VID: 32902 PID: 39443
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Added With VID: 3034 PID: 21833
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Added With VID: 6353 PID: 11520
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Added With VID: 32903 PID: 38
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Claim interface result: 0
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Listening in port
+[2025-06-30 10:36:36] [I] Connection: Sending Hello
+[2025-06-30 10:36:36] [I] Connection: Verification key: asdfg
+[2025-06-30 10:36:36] [I] Connection: Request Type: 4 Enqueued 72 bytes to write.
+[2025-06-30 10:36:36] [I] ConnectionAndroid: Device Initialized
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Connection Android Object Created
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Connection Linux Object Created
+[2025-06-30 10:36:36] [I] ConnectionWrapper: setSerialInCallback called
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Setting serialInCallback for device index: 0
+[2025-06-30 10:36:36] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Setting serialInCallback for device index: 1
+[2025-06-30 10:36:36] [I] Connection: Serial In Callback Is Initialized
+[2025-06-30 10:36:36] [I] ConnectionWrapper: setDeviceStateCallback called
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 0
+[2025-06-30 10:36:36] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:36:36] [I] ConnectionWrapper: Setting deviceStateCallback for device index: 1
+[2025-06-30 10:36:36] [I] Connection: Device State Callback Is Initialized
+[2025-06-30 10:36:36] [I] TLVProtocol: Type of chunk: 5 - Length of chunk: 1264 - Value of chunk: {"certificate":"-----BEGIN CERTIFICATE-----\nMIIEAjCCA4egAwIBAgIGPlQcAQ8qMAoGCCqGSM49BAMDMIHNMQswCQYDVQQGEwJU\nUjEYMBYGA1UEBwwPR2ViemUgLSBLb2NhZWxpMUcwRQYDVQQKDD5Uw7xya2l5ZSBC\naWxpbXNlbCB2ZSBUZWtub2xvamlrIEFyYcWfdMSxcm1hIEt1cnVtdSAtIFTDnELE\nsFRBSzEQMA4GA1UECwwHQsSwTEdFTTFJMEcGA1UEAwxAT2RlbWUgS2F5ZGVkaWNp\nIENpaGF6IEVsZWt0cm9uaWsgU2VydGlmaWthIEhpem1ldCBTYWdsYXlpY2lzaS1T\nMjAeFw0yNDAxMDMxMzUyMDhaFw0zNDEyMzExMzUyMDhaMDQxCzAJBgNVBAYTAlRS\nMQ4wDAYDVQQKDAVUT0tFTjEVMBMGA1UEBRMMQVYwMDAwMDAwNTA3MHYwEAYHKoZI\nzj0CAQYFK4EEACIDYgAEUQKJ9Yd9RbGqaJSwVn5ybPOIOm1p9QIBA\/AgrMtBjsto\nmhSfk7xi4X443+XNVPsXLe4RjM01dHgFgqxaP9UdAnZ72xhCBOUdLnezu5jvSjEU\nD+GFNvNIRhKAyYaG1KrRo4IBzDCCAcgwHwYDVR0jBBgwFoAUn3GlgUkDH37uIH1J\njthrxz6vKPIwHQYDVR0OBBYEFIpbd57x7Lv9RTge3tOdCQlx2SdvMA4GA1UdDwEB\n\/wQEAwIFoDCBxgYDVR0gBIG+MIG7MIG4BgtghhgBAgEBBQcBAjCBqDAqBggrBgEF\nBQcCARYeaHR0cDovL2RlcG8ua2FtdXNtLmdvdi50ci9pbGtlMHoGCCsGAQUFBwIC\nMG4MbEJ1IHNlcnRpZmlrYSBpbGUgaWxnaWxpIHNlcnRpZmlrYSB1eWd1bGFtYSBl\nc2FzbGFyxLFuxLEgb2t1bWFrIGnDp2luIGJlbGlydGlsZW4gd2ViIHNpdGVzaW5p\nIHppeWFyZXQgZWRpbml6LjAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB\nBggrBgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vZGVwby5rYW11c20u\nZ292LnRyL29rYy9PS0MtUzItU0lMLmNybDBEBggrBgEFBQcBAQQ4MDYwNAYIKwYB\nBQUHMAKGKGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIvb2tjL09LQy1TMi5jZXIw\nCgYIKoZIzj0EAwMDaQAwZgIxALqEAIFGZDkeCK4G7yUPzQMIKd2sNdv4kmzZnhxJ\n4tRUCbUkUjQGPOC0U90w54B2PgIxAOaYWRn2CV30Igm8xd7ag820bkIvdT1uE4o1\nSGVSvlKB9i2hUhfTSWFHr8l5R\/MoFQ==\n-----END CERTIFICATE-----\n","sign":"14d2dc727c9995189d3cf919cda609ebedbc9bfcf0fb304096b3911553548e75e945e2bb2c226806e466cf6ea3c02084588518d35fa9facec33437810e488fcfd4804a62fcdd84dc292ae984d3735f147ca326a07fa744dbb05a1740b0569fde"} - Control of chunk: 6210
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 5
+[2025-06-30 10:36:36] [I] HelperFunctions: Certificate verifying process started
+[2025-06-30 10:36:36] [I] HelperFunctions: Trying to verify certificate
+[2025-06-30 10:36:36] [I] HelperFunctions: -------------------
+[2025-06-30 10:36:36] [I] BIO_Output: Version: 3
+
+[2025-06-30 10:36:36] [I] BIO_Output: Serial: 3e541c010f2a
+
+[2025-06-30 10:36:36] [I] X509_Info: Issuer: /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=B\xC4\xB0LGEM/CN=Odeme Kaydedici Cihaz Elektronik Sertifika Hizmet Saglayicisi-S2
+[2025-06-30 10:36:36] [I] X509_Info: Valid From: Jan  3 13:52:08 2024 GMT
+[2025-06-30 10:36:36] [I] X509_Info: Valid Until: Jan  3 13:52:08 2024 GMTDec 31 13:52:08 2034 GMT
+[2025-06-30 10:36:36] [I] X509_Info: Subject: /C=TR/O=TOKEN/serialNumber=AV0000000507
+[2025-06-30 10:36:36] [I] X509_Info: Public Key: Public-Key: (384 bit)
+pub:
+    04:51:02:89:f5:87:7d:45:b1:aa:68:94:b0:56:7e:
+    72:6c:f3:88:3a:6d:69:f5:02:01:03:f0:20:ac:cb:
+    41:8e:cb:68:9a:14:9f:93:bc:62:e1:7e:38:df:e5:
+    cd:54:fb:17:2d:ee:11:8c:cd:35:74:78:05:82:ac:
+    5a:3f:d5:1d:02:76:7b:db:18:42:04:e5:1d:2e:77:
+    b3:bb:98:ef:4a:31:14:0f:e1:85:36:f3:48:46:12:
+    80:c9:86:86:d4:aa:d1
+ASN1 OID: secp384r1
+NIST CURVE: P-384
+
+[2025-06-30 10:36:36] [I] HelperFunctions: -------------------
+[2025-06-30 10:36:36] [I] HelperFunctions: device identifier 0
+[2025-06-30 10:36:36] [I] HelperFunctions: Got certificate public key
+[2025-06-30 10:36:36] [I] HelperFunctions: Sign verificator initialized
+[2025-06-30 10:36:36] [I] HelperFunctions: Certificate content verificator initialized
+[2025-06-30 10:36:36] [I] TLVProtocol: Type of chunk: 4 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 50012
+[2025-06-30 10:36:36] [I] HelperFunctions: Verification result: 1
+[2025-06-30 10:36:36] [I] HelperFunctions: Signature length: 102
+[2025-06-30 10:36:36] [I] HelperFunctions: Certificate verification successful
+[2025-06-30 10:36:36] [I] Connection: Sharing key
+[2025-06-30 10:36:36] [I] Connection: Request Type: 6 Enqueued 104 bytes to write.
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 4
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:36] [I] TLVProtocol: Type of chunk: 6 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 12301
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 6
+[2025-06-30 10:36:36] [I] Connection: SHARE_KEY Data Received
+[2025-06-30 10:36:36] [I] Connection: SHARE_KEY Data Received And Data Is OK
+[2025-06-30 10:36:36] [I] Connection: DEVICE_INFO Request Sent
+[2025-06-30 10:36:36] [I] Connection: Request Type: 0 Enqueued 120 bytes to write.
+[2025-06-30 10:36:36] [I] Connection: ConnectionState is 1 (Active)
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:36] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: AV0000000121 - Control of chunk: 18471
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 0
+[2025-06-30 10:36:36] [I] Connection: Device State Callback Invoking 1 : AV0000000121
+[2025-06-30 10:36:36] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:36:36] [I] Connection: Store device state 1 : AV0000000121
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:36] [I] TLVProtocol: Type of chunk: 0 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 60539
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 0
+[2025-06-30 10:36:36] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:39] [I] Connection: Request Type: 2 Enqueued 72 bytes to write.
+[2025-06-30 10:36:39] [I] Connection: FISCAL_INFO Request Sent
+[2025-06-30 10:36:39] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 352 - Value of chunk: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]} - Control of chunk: 10292
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 2
+[2025-06-30 10:36:39] [I] Connection: FISCAL_INFO Data Received
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:39] [I] Connection: FISCAL_INFO fiscalReady: 1
+[2025-06-30 10:36:39] [I] Connection: Fiscal Info: {"businessMode":0,"pluCount":4,"plus":[{"barcode":"123456789001","name":"ETI GOFRET","pluNo":1,"price":500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789002","name":"ALGIDA MAGNUM","pluNo":2,"price":2500,"sectionNo":1,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789003","name":"ULUDAG LIMONATA","pluNo":3,"price":2500,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1},{"barcode":"123456789008","name":"FUSE TEA LIMON","pluNo":4,"price":3000,"sectionNo":4,"status":1,"taxPercent":1000,"type":0,"unit":"","vatID":1}],"receiptLimit":990000,"sectionCount":6,"sections":[{"limit":0,"name":"YÝYECEK","price":100,"sectionNo":1,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"ALKOL","price":200,"sectionNo":2,"status":1,"taxPercent":2000,"type":0},{"limit":0,"name":"TEKEL","price":300,"sectionNo":3,"status":0,"taxPercent":0,"type":0},{"limit":0,"name":"ÝÇECEK","price":400,"sectionNo":4,"status":1,"taxPercent":1000,"type":0},{"limit":0,"name":"EKMEK","price":500,"sectionNo":5,"status":1,"taxPercent":100,"type":0},{"limit":0,"name":"GÝYÝM","price":600,"sectionNo":6,"status":1,"taxPercent":2000,"type":0}]}
+[2025-06-30 10:36:39] [I] TLVProtocol: Type of chunk: 2 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 22454
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 2
+[2025-06-30 10:36:39] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:40] [W] ConnectionWrapper: Called deleteCommunication
+[2025-06-30 10:36:40] [I] ConnectionWrapper: active_device : 0
+[2025-06-30 10:36:40] [I] Connection: Request Type: 7 Enqueued 72 bytes to write.
+[2025-06-30 10:36:40] [I] ConnectionAndroid: Sending DISCONNECT data
+[2025-06-30 10:36:40] [I] TLVProtocol: Type of chunk: 7 - Length of chunk: 16 - Value of chunk: OK - Control of chunk: 58875
+[2025-06-30 10:36:40] [I] Connection: Received Data Type: 49
+[2025-06-30 10:36:40] [I] Connection: Received Data Type: 7
+[2025-06-30 10:36:40] [I] Connection: DISCONNECT Data Received
+[2025-06-30 10:36:40] [I] Connection: Received Data Type: 50
+[2025-06-30 10:36:40] [I] ConnectionAndroid: Disconnected
+[2025-06-30 10:36:41] [I] ConnectionAndroid: hotplug loop exit
+[2025-06-30 10:36:41] [I] ConnectionAndroid: hotplugThread Thread Joined
+[2025-06-30 10:36:41] [I] ConnectionAndroid: Serial Out Mutex Locked
+[2025-06-30 10:36:41] [I] ConnectionAndroid: Serial Out Mutex Unlocked
+[2025-06-30 10:36:41] [I] ConnectionAndroid: listenSerial exits
+[2025-06-30 10:36:41] [I] ConnectionAndroid: Serial In Thread Joined
+[2025-06-30 10:36:41] [I] ConnectionAndroid: sendSerial exits
+[2025-06-30 10:36:41] [I] ConnectionAndroid: Serial Out Thread Joined
+[2025-06-30 10:36:41] [I] ConnectionAndroid: Device Closed
+[2025-06-30 10:36:41] [I] Connection: ConnectionState is 0 (Passive)
+[2025-06-30 10:36:41] [I] Connection: Device State Callback Invoking 0 : 
+[2025-06-30 10:36:41] [I] Connection: Device State Callback Invoked
+[2025-06-30 10:36:41] [I] Connection: Store device state 0 : 
+[2025-06-30 10:36:41] [W] ConnectionWrapper: Finished deleteCommunication
