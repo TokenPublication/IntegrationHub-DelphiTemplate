@@ -743,6 +743,10 @@ begin
       FPOSComm.SetCallbacks(nil, nil);
       // Explicitly disconnect before freeing
       FPOSComm.Disconnect;
+
+      // Give background threads a moment to complete before unloading DLLs
+      Sleep(500); // 500ms delay
+
       Log('Releasing communication resources...');
       FPOSComm.Free;
       FPOSComm := nil;
